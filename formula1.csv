@@ -1,0 +1,23 @@
+rank,points,firtsname,lastname,team
+1,575,Max,Verstappen,Red Bull Racing
+2,285,Sergio,Perez,Red Bull Racing
+3,234,Lewis,Hamilton,Mercedes
+4,206,Fernando,Alonso,Aston Martin
+5,206,Charles,Leclerc,Ferrari
+6,205,Lando,Norris,McLaren
+7,200,Carlos,Sainz,Ferrari
+8,175,George,Russell,Mercedes
+9,97,Oscar,Piastri,McLaren
+10,74,Lance,Stroll,Aston Martin
+11,62,Pierre,Gasly,Alpine
+12,58,Esteban,Ocon,Alpine
+13,27,Alexander,Albon,Williams
+14,17,Yuki,Tsunoda,AlphaTauri
+15,10,Valtteri,Bottas,Alfa Romeo
+16,9,Nico,Hulkenberg,Haas F1 Team
+17,6,Daniel,Ricciardo,AlphaTauri
+18,6,Guanyu,Zhou,Alfa Romeo
+19,3,Kevin,Magnussen,Haas F1 Team
+20,2,Liam,Lawson,AlphaTauri
+21,1,Logan,Sargeant,Williams
+22,0,Nyck,De Vries,AlphaTauri
